@@ -1,0 +1,9 @@
+touch index.html 创建文件
+
+1. git init 本地初始化
+2. git add  添加文件  git add .  添加所有文件
+3 git status 查看状态
+4.git commit 提交
+5.git push 推送到仓库
+6.git pull 从远程仓库拉取数据
+7. git clone 从远程仓库拷贝数据
